@@ -468,11 +468,11 @@
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pain Away",
+ 	 	 	 	"trans": "Zera Dores",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Você está com dor de cabeça? use Pain Away™ para aliviar a dor!",
+ 	 	 	 	"trans": "Você está com dor de cabeça? use Zera Dores™ para aliviar a dor!",
  	 	 	 	"eng": "Do you have headache? use Pain Away™ to relief your pain!"
  	 	 	}
  	 	},
@@ -548,11 +548,11 @@
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pain Away Spray",
+ 	 	 	 	"trans": "Zera Dores Spray",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Você e seu amigo estam com dor de cabeça? use o Pain Away Spray™ para aliviar suas dores!",
+ 	 	 	 	"trans": "Você e seu amigo estam com dor de cabeça? use o Zera Dores Spray™ para aliviar suas dores!",
  	 	 	 	"eng": "Do you and your friend have headache together? use Pain Away Spray™ to relief your pain!"
  	 	 	}
  	 	},
